@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Wrench56
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning about pygame
+{<br>
+    "languages": ["python", "javascript", "c", "assembly", "dart"],<br>
+    "most_liked_programming_language": "python"<br>
+}
 
 <!---
 Wrench56/Wrench56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
