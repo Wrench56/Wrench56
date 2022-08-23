@@ -1,12 +1,11 @@
 ```json
 {
-    "languages": [ "python", "javascript", "c", "assembly", "dart" ],
+    "languages": [ "python", "javascript", "c", "x86 Assembly", "dart" ],
     "most_liked_programming_language": "python",
-    "currently_using": "dart",
+    "currently_using": "x86 Assembly (NASM)",
     "frameworks": [ "flask", "flutter" ],
     "fav_framework": "flutter",
-    "dbs": [ "sqlite", "mongodb" ],
-    "wants_to_learn_db": "cassandra"
+    "dbs": [ "sqlite", "mongodb" ]
 }
 ```
 
