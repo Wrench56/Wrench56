@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a modern 64-bit OS in Rust that is fully compatible with Linux<br>👯 I’m looking to collaborate on `oxnag`, an OpenGL game written x86 Assembly without libraries<br>🌱 I’m currently learning about OSes through MIT's xv6 and Tanenbaum's Modern Operating Systems<br>⚡ Fun fact: I'm currently a high school student
+🔭 I’m currently working on a modern 64-bit OS in Rust that is fully compatible with Linux<br>👯 I’m looking to collaborate on `oxnag`, an OpenGL game written x86 Assembly without libraries<br>🌱 I’m currently learning about OSes through MIT's xv6 and Tanenbaum's Modern Operating Systems<br>⚡ Fun fact: I'm currently an undergraduate student at Georgia Tech!
 
 
 ## 🌐 Socials:
